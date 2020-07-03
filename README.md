@@ -1,4 +1,4 @@
-# Filemo
+# Filemo - <img src="images/file.png" height="40" width="40" />
 
 A python built GUI for opening applications in your local directory with one click. Two versions made for both macOS and Windows.
 
