@@ -1,3 +1,5 @@
+##### WINDOWS/LINUX VERSION #####
+
 # Python Built GUI for opening up applications on your 
 # local directory with one click.
 
@@ -6,6 +8,7 @@ from tkinter import filedialog, Text
 import os
 
 root = tk.Tk()
+root.title("Filemo")
 apps = []
 
 
@@ -30,8 +33,8 @@ def addApp():
 
 def runApps():
     for app in apps:
-        os.system('open %a' % app)     # MAC
-        # os.startfile(app)     # WINDOWS
+        # os.system('open %a' % app)     # MAC
+        os.startfile(app)     # WINDOWS
 
 canvas = tk.Canvas(root, height=700, width=700, bg="#34D244")
 canvas.pack()
