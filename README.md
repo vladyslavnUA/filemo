@@ -1,6 +1,14 @@
+
 # Filemo - <img src="images/file.png" height="40" width="40" />
 
 A python built GUI for opening applications in your local directory with one click. Two versions made for both macOS and Windows.
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vladyslavnUA/filemo">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/vladyslavnUA/filemo">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vladyslavnUA/filemo">
+  <img alt="GitHub" src="https://img.shields.io/github/license/vladyslavnUA/filemo?logo=MIT">
+ </p>
 
 ## Installation - <img src="images/a.png" height="20" width="20" />
 To run this on your macOS computer, follow these steps:
