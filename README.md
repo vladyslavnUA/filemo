@@ -47,7 +47,7 @@ python3 windows.py
 | Code Fluidity          |         ✔️         |        ✔️        |
 
 ## Contribute
-If you would like to contribute to the site, create a new [pull-request](https://github.com/vladyslavnUA/filemo/pulls) and I will be sure to check it out. In addition, if you spot any 🐞's in my code, be sure to create a [new issue](https://github.com/vladyslavnUA/filemo/issues/new), I will greatly appreciate it.
+If you would like to contribute to the project, create a new [pull-request](https://github.com/vladyslavnUA/filemo/pulls) and I will be sure to check it out. In addition, if you spot any 🐞's in my code, be sure to create a [new issue](https://github.com/vladyslavnUA/filemo/issues/new), I will greatly appreciate it.
 
 ## Credits
 <table>
